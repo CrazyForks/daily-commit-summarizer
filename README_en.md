@@ -165,3 +165,11 @@ Contributions welcome! Ideas:
 ## 📜 License
 
 MIT License. Use at your own risk.
+
+## 🔍 You May Also Like
+
+[![issue-to-project-task](https://img.shields.io/badge/GitHub-issue2task-blue?logo=github)](https://github.com/nanbingxyz/issue2task)
+
+**[issue2task](https://github.com/nanbingxyz/issue2task)** — A Python tool that turns long GitHub issues into concise, actionable tasks with AI,  
+and can automatically add them to your Project v2 board.  
+Perfect for transforming messy discussions into clear next steps.
