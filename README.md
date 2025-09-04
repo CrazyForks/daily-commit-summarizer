@@ -162,3 +162,11 @@ TZ|Asia/Shanghai|定义 “今天” 的时区
 ## 📜 许可证
 
 MIT License，自行承担使用风险。
+
+## 🔍 你可能感兴趣
+
+[![issue2task](https://img.shields.io/badge/GitHub-issue2task-blue?logo=github)](https://github.com/nanbingxyz/issue2task)
+
+**[issue2task](https://github.com/nanbingxyz/issue2task)** —— 一个 Python 工具，可以把冗长的 GitHub Issue（含全部评论）通过 AI 总结为简洁、可执行的任务，  
+并可自动添加到 GitHub Project v2 看板中。  
+非常适合将复杂的讨论转化为清晰的下一步行动。
